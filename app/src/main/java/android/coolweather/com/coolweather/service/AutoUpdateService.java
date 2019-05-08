@@ -7,12 +7,7 @@ import android.content.SharedPreferences;
 import android.os.IBinder;
 import android.os.SystemClock;
 import android.preference.PreferenceManager;
-import android.util.Log;
-import android.widget.Toast;
 
-import com.bumptech.glide.Glide;
-import android.coolweather.com.coolweather.R;
-import android.coolweather.com.coolweather.WeatherActivity;
 import android.coolweather.com.coolweather.gson.Weather;
 import android.coolweather.com.coolweather.util.HttpUtil;
 import android.coolweather.com.coolweather.util.Utility;
